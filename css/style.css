@@ -1,0 +1,26 @@
+
+
+h1 {
+    color: purple;
+    text-align: center;
+  }
+
+.hide-me {
+        display: none;
+ }
+
+ body {
+    background-color: lightblue;
+  }
+
+  
+ div {
+    font-family: verdana;
+    font-size: 30px;
+  }
+
+  p {
+    font-family: blue;
+    background-color:red !important;
+  }
+  
